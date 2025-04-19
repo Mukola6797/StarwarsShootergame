@@ -1,2 +1,1 @@
-# StarwarsShootergame
-StarwarsShootergame
+# StarWarsShooterPygame
